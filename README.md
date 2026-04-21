@@ -1,5 +1,8 @@
 # Flight-Price-Prediction
-Predicting the price of a flight ticket given a set of features.
+
+**OVERVIEW:**
+
+This project is part of the Machine Learning Practice (MLP) curriculum in the IITM BS Degree program. The goal of this project is to predict the price of flight tickets based on various features provided in the dataset. This was developed as part of Kaggle Assignment-1 for Term-2 in 2025.
 
 **FILES:**
 
@@ -22,3 +25,11 @@ Predicting the price of a flight ticket given a set of features.
 - duration: Overall time taken to travel between cities in hours.
 - days_left: Number of days between booking and trip dates.
 - price: Information about ticket price.
+
+**EVALUATION:**
+
+Submissions are evaluated on r2_score between the observed target and the predicted target.
+
+**SUBMISSION FILE:**
+
+For each ID in the test set, you must predict a probability for the TARGET variable. The file should contain a header and have the following format:
