@@ -38,3 +38,8 @@ For each ID in the test set, predict a probability for the TARGET variable. The 
 | 0 | 2000 |
 | 1 | 13500 |
 | 2 | 6540 |
+
+This file 'Flight_Price_Prediction' contains all the steps from data loading to prediction submission like preprocessing, EDA, pipelines/column transformers, model building, hyperparameter tuning, insights and accuracy/scores.
+
+Below is the link of the Kaggle Notebook, the competition was organized on Kaggle Platform.
+(https://www.kaggle.com/code/nitindixit9841/23f2005404-ka1)
